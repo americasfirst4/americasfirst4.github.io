@@ -16,3 +16,23 @@ header {
 h1 {
   text-align: center;
 }
+table, tr {
+	color: black;
+}
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+tr {
+	height: 50px;
+}
+td, th {
+	padding: 15px;
+	text-align: left;
+}
+th {
+  color: black;
+}
+td, tr {
+	color: black;
+}
