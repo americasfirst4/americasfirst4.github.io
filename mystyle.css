@@ -1,6 +1,6 @@
 * {
-	padding: 0;
 	margin: 0;
+	padding: 0;
 }
 body {
   background: rgb(246, 239, 229);
@@ -8,6 +8,7 @@ body {
 header {
 	text-align: center;
 	background: url("images/paperbackground.jpg");
+	color: white;
 }
 .hlinks {
   display: inline;
