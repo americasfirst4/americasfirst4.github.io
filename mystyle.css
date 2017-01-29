@@ -1,7 +1,7 @@
 * {
 }
 body {
-  background: rgb();
+  background: rgb(266, 239, 229);
 }
 header {
 	text-align: center;
@@ -16,6 +16,10 @@ text-align: center;
   padding: 10px 10px 10px 10px;
   background: rgba(0,0,0,0.5);
 color: white;
+}
+.title {
+	font-size: 60px;
+	margin: 80px 10px 30px 10px;
 }
 h1 {
   text-align: center;
