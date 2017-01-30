@@ -15,10 +15,10 @@ header {
 	padding: 0;
 }
 li {
-	color: white;
+	color: rgb(255, 255, 255);
 }
 ul {
-	color: white;
+	color: rgb(255, 255, 255);
 }
 .hlinks {
   display: inline;
