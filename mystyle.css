@@ -36,6 +36,9 @@ h1 {
 	font-family: 'Great Vibes', cursive;
 	margin-top: 20px;
 }
+h2 {
+	padding: 10px 10px 10px 10px;
+}
 table, tr {
 	color: black;
 }
