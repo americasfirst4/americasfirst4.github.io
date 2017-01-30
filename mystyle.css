@@ -52,6 +52,7 @@ td, th {
 }
 th {
   color: black;
+	background: rgb(125, 196, 216);
 }
 td, tr {
 	color: black;
