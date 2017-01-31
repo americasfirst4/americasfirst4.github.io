@@ -75,6 +75,7 @@ tr:nth-child(even) {background-color: #e3e3e3}
       max-width: 800px;
       padding: 20px;
       margin: 0 auto;
+	color: black;
     }
 h2 {
 	padding: 10px 10px 10px 10px;
