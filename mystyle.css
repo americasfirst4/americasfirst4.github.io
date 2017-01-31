@@ -21,6 +21,9 @@ footer {
 a {
 	color: white;
 }
+ul {
+	color: black;
+}
 .hlinks {
   display: inline;
   padding: 5px 5px 5px 5px;
