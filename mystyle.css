@@ -18,11 +18,8 @@ header {
 footer {
 	background: rgb(227, 227, 227);
 }
-li {
-	color: #ffffff;
-}
-ul {
-	color: #ffffff;
+a {
+	color: white;
 }
 .hlinks {
   display: inline;
