@@ -17,6 +17,7 @@ header {
 }
 footer {
 	background: rgb(227, 227, 227);
+	color: black;
 }
 a {
 	color: white;
