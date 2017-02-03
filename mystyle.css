@@ -19,6 +19,9 @@ footer {
 	background: rgb(227, 227, 227);
 	color: black;
 }
+.source {
+	color: black;
+}
 img {
 	display: block;
     margin: auto;
