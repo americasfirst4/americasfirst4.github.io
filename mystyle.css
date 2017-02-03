@@ -9,6 +9,7 @@ body {
 header {
 	text-align: center;
 	background: url("images/paperbackground.jpg");
+	background-size: cover;
 	color: white;
 	font-family: 'Great Vibes', cursive;
 	margin: 0;
